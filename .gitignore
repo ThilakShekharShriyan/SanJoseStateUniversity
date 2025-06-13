@@ -1,0 +1,19 @@
+# Ignore log files
+*.log
+
+# Ignore build output
+build/
+dist/
+
+# Ignore node modules
+node_modules/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore environment variables
+.env
+
+# Ignore temporary files
+*.tmp
