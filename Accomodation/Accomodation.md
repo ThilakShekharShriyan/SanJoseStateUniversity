@@ -1,44 +1,96 @@
-Searching for accomodation is quite daunting escpecially if you have stayed with your family your entire life. I am just writing my expericne cause i think i will get dementia one day. but you can use this for your information. 
 
-We reached out to alot  of people over reddit and Yocket Chat and other forums, to make SJSU Uni whatsapp groups, so there are more than 8/9 unofficial whatsapp groups, however few seniors from ISO created a whatsapp group, that needed verfication before joining in. However, before that we created a google forms, which gave us a sheet of information of all students, their prefernces. So we could contact them via email or whatsapp, ill add the google forms format as well. I would suggest to do the same, it will give you a chance to interact with your peer group as well, first step to networking. 
+# 🏠 Finding Accommodation for SJSU – My Experience
 
-Usually people do not start talking about accomodation until they get their visa, but if your visa slot is after may15th , highly recommend making a group first, atleast with people who have slots before that, so they can start researching accomodation. Another place where  people usually put out posts is the SAMMY app.
+Searching for accommodation can be daunting — especially if you've lived with your family your whole life.  
+I'm writing down my experience partly to remember it later (maybe I’ll get dementia one day 😅), but feel free to use this information if it helps.
 
+---
 
-First of all if you havent already:
-1. Get your Visa sorted, (Check my Visa page as well)
-2. Know your budget lower limit and upper limit.
-3. Use the google sheet (highly recommended as you can filter people out), or cold message people from whatsapp group to find roomates.
-4. Make your groups with your roomates, its fine even if few you didnt get your visa yet.
+## 🔗 Connecting with Others
 
+We connected with a lot of people through Reddit, Yocket Chat, and other forums to form unofficial WhatsApp groups for SJSU.  
+There are at least 8–9 such groups.
 
-SJSU is located in San Jose Downtown, Downtown initself in most US cities are known for not being safe. Its the same here as well. But if you mind your busineess you are going to UNi to study and go back to your accomodation you should be good, if not try to travel in groups. 
+Eventually, a few seniors from the International Students Office (ISO) created an official WhatsApp group that required verification to join.  
+But before that, we made a **Google Form** to collect information about incoming students — their preferences, emails, etc.  
+It gave us a shared sheet that made it easier to reach out and form roommate groups.  
+I'll add the Google Form format here too.  
+I highly recommend you do something similar — it's a great way to start networking.
 
-PS: I am sitting in India while typing this so not sure of the information.
+---
 
-First of all I would definelty suggest to do your own research before going to any blogs or seniors, as it might either be outdated or biased in terms of opionns.
+## 🕒 When to Start Looking
 
-I will go ahead and give you details on the set up that is used in my house. We are 4 people (all Male), we are specifically looking for 2 bedrooms and 2.5 bath rooms.
-- 1 Bedroom 1 Bathroom: Shared among 2 people
-- 1 Bedroom 1 Bathroom: Private Room (Shower is shared with person in hall room)
-- Hall room 0.5 Bathroom: Is taken by 1 person who shared just the shower with ^.
+Most people don’t start talking about accommodation until they get their visa.  
+But if your visa slot is after **May 15th**, I highly recommend forming a group early — at least with people who have slots before that.  
+This way, they can begin the research while you're still waiting.
 
+Another place where people usually post is the **SAMMY App**.
 
-The reason we took this setup is because we do not want to fight and quarrell over silly things, lesser people lesser opionins and lesser overlap or difference in opions. Also although the rooms are separate the kitchen is shared, so we want to keep stuff clean. 
+---
 
-Keep in mind San Jose is notriusly costly, the legal maximum accopancy in a 2b2.5b is 5(which is still alot), but there are some people who live proabbaly 7 people. 
+## ✅ First Steps
 
-Now this amount is variable and differs from season , during the fall and spring intakes, the costs of these leases rise up signficantly.
+1. Get your visa sorted (Check my [Visa Page] too).
+2. Know your budget — both lower and upper limits.
+3. Use the shared Google Sheet (highly recommended), or cold-message people from the WhatsApp groups to find roommates.
+4. Form your own group with potential roommates — it's okay if some haven't received their visas yet.
 
-Points to note:
-* Keep your name in the lease, USCIS needs to know where you live and your permanent residence address. 
-* All/Most places require you to have income, since we are international students, our i20 living expenses count as income for the year. So while checking the place, get to know the required amount for the entire flat. Ideally its 100K total income, (my i20 amount shows arounnd 26K, which allows 4 people to stay in a house)
+---
 
+## 📍 Location Context
 
+SJSU is located in **Downtown San Jose**.  
+Downtowns in many U.S. cities tend to have safety concerns — San Jose is no different.
 
-Places to look for as an international Student
+That said, if you're going to university and back, and mind your own business, you should be fine.  
+If you're unsure, try to travel in groups.
 
-- 101 San Fernanado 
-- 33rd South 
+> **Note:** I'm still in India while writing this, so please verify the details.
 
+---
 
+## ⚠️ Do Your Own Research
+
+Always do your own research.  
+Advice from blogs or seniors can sometimes be outdated or biased.
+
+---
+
+## 🛏️ Our House Setup
+
+We're 4 male students in a 2-bedroom, 2.5-bathroom apartment. Here's the breakdown:
+
+- **Bedroom 1 + Bathroom 1:** Shared by 2 people  
+- **Bedroom 2 + Bathroom 2:** Private room (but shares the shower with the hall occupant)  
+- **Hall Room + Half Bath:** Taken by 1 person (shares shower only)
+
+We chose this setup to avoid unnecessary conflict. Fewer people = fewer opinions = fewer disagreements.
+
+Though rooms are private, the kitchen is shared — so keeping it clean is a shared responsibility.
+
+---
+
+## 💸 Cost & Occupancy Notes
+
+- San Jose is **notoriously expensive**
+- Legal max occupancy in a 2B2.5B is **5 people**
+- Some places go beyond this, with up to 7 people (not recommended)
+
+> Costs vary by season — **Fall and Spring** intake periods usually have higher lease prices.
+
+---
+
+## 📝 Things to Keep in Mind
+
+- Make sure your **name is on the lease** — USCIS requires proof of residence.
+- Most landlords require proof of income.
+  - For international students, **i20 living expenses count as income**
+  - Example: If your i20 shows ~$26K/year, four of you together show ~$100K, which meets the requirement
+
+---
+
+## 📌 Suggested Apartments for International Students
+
+- **101 San Fernando**
+- **33rd South**
