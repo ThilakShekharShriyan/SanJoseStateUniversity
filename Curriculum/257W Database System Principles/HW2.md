@@ -1,7 +1,5 @@
 # CS257 HW2 — macOS Docker + Embedded SQL (Super Easy Guide)
 
-This is a simple, screenshot‑friendly checklist you can run from scratch.
-Use the 🟩/⬜ boxes to track progress and drop your screenshots under each step.
 
 > Works on Intel and Apple Silicon (M1/M2/M3). If you’ve tried things before, start at **0. Clean Slate**.
 
